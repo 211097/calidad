@@ -1,0 +1,20 @@
+.Eliminar1{
+    position: relative;
+
+    color: #fff;
+    background-color: #CB4AE0;
+    text-decoration: none;
+}
+.eliminarContededorBtn{
+    position: relative;
+    top: 200px;
+    text-align: center;
+    background: none;
+}
+.IDdueño_Delete{
+    top: 150px;
+    position: relative;
+    width: 400px;
+    left: 600px;
+
+}

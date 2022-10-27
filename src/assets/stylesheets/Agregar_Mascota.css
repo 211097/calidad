@@ -1,0 +1,68 @@
+
+
+/*Modulo Mascota*/
+.IDdueño{
+    top: 50px;
+    position: relative;
+    width: 400px;
+    left: 200px;
+}
+
+.Tipo{
+    position: relative;
+    width: 400px;
+    top: 50px;
+    left: 200px;
+}
+.Nombre{
+    width: 400px;
+    position:relative;
+    left: 55%;
+    top: -212px;
+}
+/*Modulo Dueños*/
+.NombreDueño1{
+    width: 400px;
+    position:relative;
+    left: 55%;
+    top: 100px;
+}
+.Direccion{
+    position: relative;
+    width: 400px;
+    top: 15px;
+    left: 200px;
+}
+.NumTelefoico{
+    position: relative;
+    width: 400px;
+    top: 30px;
+    left: 200px;
+}
+.IDMascota{
+    position: relative;
+    width: 400px;
+    top: 50px;
+    left: 200px;
+}
+.IDdueño3{
+    position: relative;
+    width: 400px;
+    height: 100px;
+
+    left: 55%;
+    top:  -55px;
+    background: none;
+    text-align: center;
+
+}
+
+.Enviar1 {
+    position: relative;
+
+    top: 25px;
+    color: #fff;
+    background-color: #CB4AE0;
+    text-decoration: none;
+}
+

@@ -1,0 +1,45 @@
+.Nav-Bara{
+    background: #CB4AE0;
+    height: 125px;
+}
+.Regreso_Add2{
+    position: relative;
+    top: 25px;
+}
+
+
+
+.IDdueño2{
+    top: 50px;
+    position: relative;
+    width: 400px;
+    left: 200px;
+}
+.IDmascota2{
+    position: relative;
+    width: 400px;
+    top: 50px;
+    left: 200px;
+}
+.Tipo2{
+    position: relative;
+    width: 400px;
+    top: 50px;
+    left: 200px;
+}
+.Nombre2{
+    width: 400px;
+    position:relative;
+    left: 55%;
+    top: -212px;
+}
+
+.Enviar2{
+    position: relative;
+    top: 100px;
+
+
+    color: #fff;
+    background-color: #CB4AE0;
+    text-decoration: none;
+}
